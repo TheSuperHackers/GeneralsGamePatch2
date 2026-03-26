@@ -21095,7 +21095,7 @@ PL: ""
 END
 
 CONTROLBAR:TooltipUSAUpgradeDroneARmor
-US: "All drones get +25% armor"
+US: "All drones get +50% armor"
 DE: ""
 FR: ""
 ES: ""
@@ -21311,7 +21311,7 @@ PL: ""
 END
 
 CONTROLBAR:TooltipUpgradeChinaNuclearTanks
-US: "+25% Overlord and Battlemaster speed"
+US: "Speed increase for Battlemaster and Overlord"
 DE: ""
 FR: ""
 ES: ""
@@ -33636,6 +33636,30 @@ END
 
 TOOLTIP:AlternateMouse
 US: "Right mouse button initiates unit action on battle field (attack, move, etc.)"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:FireWallPort
+US: "Firewall Port Override:"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:FireWallPort
+US: "Open Firewall Port Number"
 DE: ""
 FR: ""
 ES: ""

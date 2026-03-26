@@ -484,8 +484,8 @@ WINDOW
         CHILD
         WINDOW
           WINDOWTYPE = CHECKBOX;
-          SCREENRECT = UPPERLEFT: 168 440,
-                       BOTTOMRIGHT: 296 464,
+          SCREENRECT = UPPERLEFT: 480 496,
+                       BOTTOMRIGHT: 608 520,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:CheckSendDelay";
           STATUS = ENABLED+IMAGE+BORDER;
@@ -533,8 +533,8 @@ WINDOW
         CHILD
         WINDOW
           WINDOWTYPE = STATICTEXT;
-          SCREENRECT = UPPERLEFT: 322 427,
-                       BOTTOMRIGHT: 438 451,
+          SCREENRECT = UPPERLEFT: 151 432,
+                       BOTTOMRIGHT: 272 456,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:StaticTextOnlineIpAddresses";
           STATUS = ENABLED;
@@ -582,8 +582,8 @@ WINDOW
         CHILD
         WINDOW
           WINDOWTYPE = PUSHBUTTON;
-          SCREENRECT = UPPERLEFT: 167 478,
-                       BOTTOMRIGHT: 283 503,
+          SCREENRECT = UPPERLEFT: 480 464,
+                       BOTTOMRIGHT: 596 489,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:ButtonFirewallRefresh";
           STATUS = ENABLED+IMAGE;
@@ -680,8 +680,8 @@ WINDOW
         CHILD
         WINDOW
           WINDOWTYPE = ENTRYFIELD;
-          SCREENRECT = UPPERLEFT: 442 490,
-                       BOTTOMRIGHT: 626 514,
+          SCREENRECT = UPPERLEFT: 320 488,
+                       BOTTOMRIGHT: 440 512,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:TextEntryHTTPProxy";
           STATUS = ENABLED+IMAGE;
@@ -734,8 +734,8 @@ WINDOW
         CHILD
         WINDOW
           WINDOWTYPE = STATICTEXT;
-          SCREENRECT = UPPERLEFT: 322 490,
-                       BOTTOMRIGHT: 438 514,
+          SCREENRECT = UPPERLEFT: 152 488,
+                       BOTTOMRIGHT: 268 512,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:StaticTextHTTPProxy";
           STATUS = ENABLED;
@@ -782,9 +782,112 @@ WINDOW
         END
         CHILD
         WINDOW
+          WINDOWTYPE = ENTRYFIELD;
+          SCREENRECT = UPPERLEFT: 320 464,
+                       BOTTOMRIGHT: 440 488,
+                       CREATIONRESOLUTION: 800 600;
+          NAME = "OptionsMenu.wnd:TextEntryFirewallPortOverride";
+          STATUS = ENABLED+IMAGE;
+          STYLE = ENTRYFIELD+MOUSETRACK;
+          SYSTEMCALLBACK = "[None]";
+          INPUTCALLBACK = "[None]";
+          TOOLTIPCALLBACK = "[None]";
+          DRAWCALLBACK = "[None]";
+          FONT = NAME: "Arial", SIZE: 10, BOLD: 0;
+          HEADERTEMPLATE = "[NONE]";
+          TOOLTIPTEXT = "TOOLTIP:FireWallPort";
+          TOOLTIPDELAY = -1;
+          TEXT = "Entry";
+          TEXTCOLOR = ENABLED:  254 254 254 255, ENABLEDBORDER:  0 0 0 255,
+                      DISABLED: 192 192 192 255, DISABLEDBORDER: 64 64 64 255,
+                      HILITE:   255 190 1 255, HILITEBORDER:   0 0 128 255;
+          ENABLEDDRAWDATA = IMAGE: TextEntryEnabledLeftEnd, COLOR: 0 0 0 255, BORDERCOLOR: 0 0 0 255,
+                            IMAGE: TextEntryEnabledRightEnd, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: TextEntryEnabledRepeatingCenter, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: TextEntryEnabledSmallRepeatingCenter, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+          DISABLEDDRAWDATA = IMAGE: TextEntryDisabledLeftEnd, COLOR: 0 0 128 255, BORDERCOLOR: 0 0 0 255,
+                             IMAGE: TextEntryDisabledRightEnd, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: TextEntryDisabledRepeatingCenter, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: TextEntryDisabledSmallRepeatingCenter, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+          HILITEDRAWDATA = IMAGE: TextEntryHiliteLeftEnd, COLOR: 0 0 0 255, BORDERCOLOR: 0 0 0 255,
+                           IMAGE: TextEntryHiliteRightEnd, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: TextEntryHiliteRepeatingCenter, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: TextEntryHiliteSmallRepeatingCenter, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+          TEXTENTRYDATA = MAXLEN: 64,
+                          SECRETTEXT: 0,
+                          NUMERICALONLY: 1,
+                          ALPHANUMERICALONLY: 0,
+                          ASCIIONLY: 1;
+        END
+        CHILD
+        WINDOW
           WINDOWTYPE = STATICTEXT;
-          SCREENRECT = UPPERLEFT: 322 461,
-                       BOTTOMRIGHT: 438 485,
+          SCREENRECT = UPPERLEFT: 151 464,
+                       BOTTOMRIGHT: 304 488,
+                       CREATIONRESOLUTION: 800 600;
+          NAME = "OptionsMenu.wnd:StaticTextFirewallPortOverride";
+          STATUS = ENABLED;
+          STYLE = STATICTEXT+MOUSETRACK;
+          SYSTEMCALLBACK = "[None]";
+          INPUTCALLBACK = "[None]";
+          TOOLTIPCALLBACK = "[None]";
+          DRAWCALLBACK = "[None]";
+          FONT = NAME: "Arial", SIZE: 10, BOLD: 0;
+          HEADERTEMPLATE = "LabelRegular";
+          TOOLTIPDELAY = -1;
+          TEXT = "GUI:FireWallPort";
+          TEXTCOLOR = ENABLED:  255 190 1 255, ENABLEDBORDER:  0 0 0 255,
+                      DISABLED: 192 192 192 255, DISABLEDBORDER: 64 64 64 255,
+                      HILITE:   128 128 255 255, HILITEBORDER:   0 0 128 255;
+          ENABLEDDRAWDATA = IMAGE: NoImage, COLOR: 255 4 0 0, BORDERCOLOR: 255 132 130 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+          DISABLEDDRAWDATA = IMAGE: NoImage, COLOR: 64 64 64 255, BORDERCOLOR: 192 192 192 255,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                             IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+          HILITEDRAWDATA = IMAGE: NoImage, COLOR: 0 128 0 255, BORDERCOLOR: 128 255 128 255,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+          STATICTEXTDATA = CENTERED: 0;
+        END
+        CHILD
+        WINDOW
+          WINDOWTYPE = STATICTEXT;
+          SCREENRECT = UPPERLEFT: 384 432,
+                       BOTTOMRIGHT: 480 456,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:StaticTextLANIpAddresses";
           STATUS = ENABLED;
@@ -832,8 +935,8 @@ WINDOW
         CHILD
         WINDOW
           WINDOWTYPE = COMBOBOX;
-          SCREENRECT = UPPERLEFT: 442 461,
-                       BOTTOMRIGHT: 626 485,
+          SCREENRECT = UPPERLEFT: 480 432,
+                       BOTTOMRIGHT: 592 456,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:ComboBoxIP";
           STATUS = ENABLED+IMAGE;
@@ -1074,8 +1177,8 @@ WINDOW
         CHILD
         WINDOW
           WINDOWTYPE = COMBOBOX;
-          SCREENRECT = UPPERLEFT: 442 429,
-                       BOTTOMRIGHT: 626 453,
+          SCREENRECT = UPPERLEFT: 272 432,
+                       BOTTOMRIGHT: 384 456,
                        CREATIONRESOLUTION: 800 600;
           NAME = "OptionsMenu.wnd:ComboBoxOnlineIP";
           STATUS = ENABLED+IMAGE;
