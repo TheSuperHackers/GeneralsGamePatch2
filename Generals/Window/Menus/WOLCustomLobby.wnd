@@ -284,7 +284,7 @@ WINDOW
       INPUTCALLBACK = "[None]";
       TOOLTIPCALLBACK = "[None]";
       DRAWCALLBACK = "[None]";
-      FONT = NAME: "Placard MT Condensed", SIZE: 16, BOLD: 0;
+      FONT = NAME: "Generals", SIZE: 15, BOLD: 0;
       HEADERTEMPLATE = "MainButton";
       TOOLTIPDELAY = -1;
       TEXT = "GUI:Back";
@@ -332,7 +332,7 @@ WINDOW
       INPUTCALLBACK = "[None]";
       TOOLTIPCALLBACK = "[None]";
       DRAWCALLBACK = "[None]";
-      FONT = NAME: "Placard MT Condensed", SIZE: 16, BOLD: 0;
+      FONT = NAME: "Generals", SIZE: 15, BOLD: 0;
       HEADERTEMPLATE = "MainButton";
       TOOLTIPDELAY = -1;
       TEXT = "GUI:Host";
@@ -380,7 +380,7 @@ WINDOW
       INPUTCALLBACK = "[None]";
       TOOLTIPCALLBACK = "[None]";
       DRAWCALLBACK = "[None]";
-      FONT = NAME: "Placard MT Condensed", SIZE: 16, BOLD: 0;
+      FONT = NAME: "Generals", SIZE: 15, BOLD: 0;
       HEADERTEMPLATE = "MainButton";
       TOOLTIPDELAY = -1;
       TEXT = "GUI:Buddies";
@@ -476,7 +476,7 @@ WINDOW
       INPUTCALLBACK = "[None]";
       TOOLTIPCALLBACK = "[None]";
       DRAWCALLBACK = "[None]";
-      FONT = NAME: "Placard MT Condensed", SIZE: 16, BOLD: 0;
+      FONT = NAME: "Generals", SIZE: 15, BOLD: 0;
       HEADERTEMPLATE = "MainButton";
       TOOLTIPDELAY = -1;
       TEXT = "GUI:Join";
@@ -1302,8 +1302,8 @@ WINDOW
     CHILD
     WINDOW
       WINDOWTYPE = USER;
-      SCREENRECT = UPPERLEFT: 108 36,
-                   BOTTOMRIGHT: 564 70,
+      SCREENRECT = UPPERLEFT: 39 36,
+                   BOTTOMRIGHT: 538 70,
                    CREATIONRESOLUTION: 800 600;
       NAME = "WOLCustomLobby.wnd:ParentSortButtons";
       STATUS = ENABLED;
@@ -1348,8 +1348,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 266 40,
-                     BOTTOMRIGHT: 420 64,
+        SCREENRECT = UPPERLEFT: 235 40,
+                     BOTTOMRIGHT: 389 64,
                      CREATIONRESOLUTION: 800 600;
         NAME = "WOLCustomLobby.wnd:ButtonSortPing";
         STATUS = ENABLED+IMAGE;
@@ -1397,8 +1397,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = USER;
-        SCREENRECT = UPPERLEFT: 270 46,
-                     BOTTOMRIGHT: 286 58,
+        SCREENRECT = UPPERLEFT: 239 46,
+                     BOTTOMRIGHT: 255 58,
                      CREATIONRESOLUTION: 800 600;
         NAME = "WOLCustomLobby.wnd:WindowSortPing";
         STATUS = ENABLED+IMAGE+NOINPUT+NOFOCUS;
@@ -1444,8 +1444,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 424 40,
-                     BOTTOMRIGHT: 558 64,
+        SCREENRECT = UPPERLEFT: 397 40,
+                     BOTTOMRIGHT: 531 64,
                      CREATIONRESOLUTION: 800 600;
         NAME = "WOLCustomLobby.wnd:ButtonSortBuddies";
         STATUS = ENABLED+IMAGE;
@@ -1493,8 +1493,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = USER;
-        SCREENRECT = UPPERLEFT: 430 46,
-                     BOTTOMRIGHT: 446 58,
+        SCREENRECT = UPPERLEFT: 403 46,
+                     BOTTOMRIGHT: 419 58,
                      CREATIONRESOLUTION: 800 600;
         NAME = "WOLCustomLobby.wnd:WindowSortBuddies";
         STATUS = ENABLED+IMAGE+NOINPUT+NOFOCUS;
@@ -1540,8 +1540,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = PUSHBUTTON;
-        SCREENRECT = UPPERLEFT: 114 40,
-                     BOTTOMRIGHT: 262 64,
+        SCREENRECT = UPPERLEFT: 80 40,
+                     BOTTOMRIGHT: 228 64,
                      CREATIONRESOLUTION: 800 600;
         NAME = "WOLCustomLobby.wnd:ButtonSortAlpha";
         STATUS = ENABLED+IMAGE;
@@ -1589,8 +1589,8 @@ WINDOW
       CHILD
       WINDOW
         WINDOWTYPE = USER;
-        SCREENRECT = UPPERLEFT: 122 46,
-                     BOTTOMRIGHT: 138 58,
+        SCREENRECT = UPPERLEFT: 88 46,
+                     BOTTOMRIGHT: 104 58,
                      CREATIONRESOLUTION: 800 600;
         NAME = "WOLCustomLobby.wnd:WindowSortAlpha";
         STATUS = ENABLED+IMAGE+NOINPUT+NOFOCUS;
@@ -1625,6 +1625,53 @@ WINDOW
                            IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
         HILITEDRAWDATA = IMAGE: NoImage, COLOR: 128 128 255 255, BORDERCOLOR: 0 254 254 255,
                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                         IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                         IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                         IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                         IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                         IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                         IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                         IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+      END
+      CHILD
+      WINDOW
+        WINDOWTYPE = PUSHBUTTON;
+        SCREENRECT = UPPERLEFT: 46 40,
+                     BOTTOMRIGHT: 70 64,
+                     CREATIONRESOLUTION: 800 600;
+        NAME = "WOLCustomLobby.wnd:ButtonRefresh";
+        STATUS = ENABLED+IMAGE;
+        STYLE = PUSHBUTTON+MOUSETRACK;
+        SYSTEMCALLBACK = "[None]";
+        INPUTCALLBACK = "[None]";
+        TOOLTIPCALLBACK = "[None]";
+        DRAWCALLBACK = "[None]";
+        FONT = NAME: "Arial", SIZE: 10, BOLD: 0;
+        HEADERTEMPLATE = "[NONE]";
+        TOOLTIPDELAY = -1;
+        TEXTCOLOR = ENABLED:  254 254 254 255, ENABLEDBORDER:  0 0 0 255,
+                    DISABLED: 192 192 192 255, DISABLEDBORDER: 64 64 64 255,
+                    HILITE:   128 128 255 255, HILITEBORDER:   0 0 128 255;
+        ENABLEDDRAWDATA = IMAGE: ButtonRound_enabled, COLOR: 255 0 0 255, BORDERCOLOR: 255 128 128 255,
+                          IMAGE: ButtonRound_selected, COLOR: 255 255 0 255, BORDERCOLOR: 254 254 254 255,
+                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+        DISABLEDDRAWDATA = IMAGE: ButtonRound_disabled, COLOR: 128 128 128 255, BORDERCOLOR: 192 192 192 255,
+                           IMAGE: NoImage, COLOR: 192 192 192 255, BORDERCOLOR: 128 128 128 255,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
+                           IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
+        HILITEDRAWDATA = IMAGE: ButtonRound_hilighted, COLOR: 0 255 0 255, BORDERCOLOR: 0 128 0 255,
+                         IMAGE: ButtonRound_selected, COLOR: 255 255 0 255, BORDERCOLOR: 254 254 254 255,
                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
                          IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
