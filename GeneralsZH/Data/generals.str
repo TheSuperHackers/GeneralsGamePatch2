@@ -57587,6 +57587,1350 @@ BP: ""
 PL: ""
 END
 
+DIALOGEVENT:Taunts_BossChi001Subtitle
+US: "*So, I see you have decided to stay and stand against me. You will regret that decision, General. Prepare to meet your end!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi002Subtitle
+US: "*The tiger stands poised to strike, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi003Subtitle
+US: "*For China! Charge!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi004Subtitle
+US: "*My forces are ready to engage your defenses, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi005Subtitle
+US: "*Feel the stomping feet of my iron dragon!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi006Subtitle
+US: "*Your defenses are worthless against my forces"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi007Subtitle
+US: "*Now we meet in the field of honor, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi008Subtitle
+US: "*This we do for the good of China"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi009Subtitle
+US: "*It is time to test your steel, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi010Subtitle
+US: "*You have attacked me for the last time, General. This wave will break your defenses and crush your pitiful army to dust!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi011Subtitle
+US: "*The might of China falls upon you"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi012Subtitle
+US: "*Your inferior forces will provide no challenge for my warriors"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi013Subtitle
+US: "*You began this fight, General. No I will finish it"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi014Subtitle
+US: "*Attack the fool! Take no prisoners!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi015Subtitle
+US: "*Two warriors meet on the battlefield. Who is to say who will win? I do, that's who. Me. You will fall, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi016Subtitle
+US: "*A fight that cannot be won is not worth fighting. So why are you here, General?"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi017Subtitle
+US: "*Rage will only get you so far, General. Now, rage and a column of tanks...that will get you somewhere"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi018Subtitle
+US: "*You find yourself at the end of your rope, General. And only now have you discovered that the end of that rope is on fire"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi019Subtitle
+US: "*The dance of battle is strange and briefand this battle with you has been strangely brief"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi020Subtitle
+US: "*I see you haven't thought your strategy through. Pity"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi021Subtitle
+US: "*That is a losing strategy, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi022Subtitle
+US: "*You are not acting for the good of you people, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi023Subtitle
+US: "*I will give you a moments pause to consider your next move"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi024Subtitle
+US: "*A wise man knows when to retreat. Obviously you are not such a man"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi025Subtitle
+US: "*In the end, all fall before me"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi026Subtitle
+US: "*You cannot stand against my might"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi027Subtitle
+US: "*China cannot be defeated by one man"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi028Subtitle
+US: "*We shall mediate and consider our next move"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi029Subtitle
+US: "*Do not commit to a tactic you cannot support"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi030Subtitle
+US: "*Suicide is not a tactic, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi031Subtitle
+US: "*We sweep away your buildings like bamboo before a hurricane"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi032Subtitle
+US: "*Your men ran from the Barracks as we knocked it to the ground"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi033Subtitle
+US: "*A factory cannot produce war, General--and now your War Factory produces nothing"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi034Subtitle
+US: "*Your Air Field has been grounded, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi035Subtitle
+US: "*Your base defenses fall before us like blades of grass"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi036Subtitle
+US: "*We've destroyed your Command Center, so where are you hiding now, General?"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi037Subtitle
+US: "*So many of your buildings have fallen that I would have expected you to surrender by now"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi038Subtitle
+US: "*Don't think you can destroy my Barracks without feeling my wraith, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi039Subtitle
+US: "*I'll have to rebuild that War Factory now. You would be wise to exploit my momentary weaknessit won't last"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi040Subtitle
+US: "*Dozers: Rebuild the Air Field before our MiGs return!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi041Subtitle
+US: "*Our defenses are cracking! Repel the invaders!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi042Subtitle
+US: "*That is quite enough destruction, General. Now it is my turn"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi043Subtitle
+US: "*You can claim my Command Center, but this battle isn't over, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi044Subtitle
+US: "*We will avenge all those MiGs you've destroyed, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi045Subtitle
+US: "*The price of this war is too high, General. Now it is time for you to pay"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi046Subtitle
+US: "*China's infantry is plentiful, but too many have been sacrificed. Now I will return your cruelty ten-fold"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi047Subtitle
+US: "*Capture all the oil you wish--you will not have time to reap the rewards"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi048Subtitle
+US: "*That Artillery Platform can easily be avoided, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi049Subtitle
+US: "*Seeking to increase your efficiency with that Oil Refinery, General? A solid strategy would have served you better"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi050Subtitle
+US: "*Something stirs at the edge of my base"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi051Subtitle
+US: "*I see you approaching my base, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi052Subtitle
+US: "*You will not live to regret entering my base, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi053Subtitle
+US: "*You forces may enter my base, but they will never leave again"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi054Subtitle
+US: "*Those resources are under my protection, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi055Subtitle
+US: "*Why do you insist on attacking from the flanks?"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi056Subtitle
+US: "*Interesting attack, General, but it will not succeed against me"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi057Subtitle
+US: "*A brave attack, General, but bravery alone will not defeat me"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi058Subtitle
+US: "*That is a fools tactic, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi059Subtitle
+US: "*Leave this place before you anger me"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi060Subtitle
+US: "*I can see what you are doing, General. I will not allow it"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi061Subtitle
+US: "*Run away from here, General, before I unleash the horde on you"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi062Subtitle
+US: "*We are approaching your base, General. What is your defense?"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi063Subtitle
+US: "*Are you prepared for our attack, General? We shall see"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi064Subtitle
+US: "*Your defenses are inadequate, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi065Subtitle
+US: "*Now we will begin leveling your base, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi066Subtitle
+US: "*Your resources will soon be mine"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi067Subtitle
+US: "*I claim this Oil Derrick for China"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi068Subtitle
+US: "*Your flanks are exposed, General. Fatal mistake"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi069Subtitle
+US: "*You have allowed my forces to subvert your defenses. Now we will finish you"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi070Subtitle
+US: "*You have allowed your power to drop, General. Pray that isn't a fatal mistake"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi071Subtitle
+US: "*Without power you won't be able to defend your base, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi072Subtitle
+US: "*You have exhausted your resources, General. It is time to admit defeat"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi073Subtitle
+US: "*You have taxed my resources, General. Now I will come and take yours"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi074Subtitle
+US: "*The Scud Strom is a cowardly weapon, General. I thought more of you"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi075Subtitle
+US: "*You are forcing me to answer with a Nuclear Silo of my own, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi076Subtitle
+US: "*That Particle Cannon is a formidable weapon, but it cannot stop China"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi077Subtitle
+US: "*So many defensesI see you have proper respect for your enemy"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi078Subtitle
+US: "*You cannot build more tanks than China, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi079Subtitle
+US: "*We will match you planes in the air, General. Your superiority will be only in your mind"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi080Subtitle
+US: "*Your men are outnumbered, General. Do not try to make a greater horde than China"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi081Subtitle
+US: "*Your base grows large, Generalripe for a nuclear strike"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi082Subtitle
+US: "*Red Guard, scatter! Scud missiles inbound!"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi083Subtitle
+US: "*We are immune to your nuclear missiles, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi084Subtitle
+US: "*No! Your particle beam will only injure us--we will not forget this, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi085Subtitle
+US: "*Hide in those buildings, General. Perhaps a Dragon Tank will come to visit you"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi086Subtitle
+US: "*Colonel Burton's exploits are legendary, but he is only one man, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi087Subtitle
+US: "*I see you have corrupted one of our Black Lotus agents. Her training will not turn the battle to your favor, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi088Subtitle
+US: "*The sniper Kell enters our battle. Do not count on his stealth to save you, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi089Subtitle
+US: "*You are foolish to build an Air Field, General. Only tanks can save you from me"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi090Subtitle
+US: "*You are wise to build a War Factory, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi091Subtitle
+US: "*That Barracks is only the beginning of what you will need to defeat me, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi092Subtitle
+US: "*If you are going to sell your buildings, why do you bother constructing them?"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi093Subtitle
+US: "*You will not defeat me this easily, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi094Subtitle
+US: "*Your advantage will not hold"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi095Subtitle
+US: "*I will not be beaten by the likes of you, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi096Subtitle
+US: "*This is not the end, General. I will recover from this"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi097Subtitle
+US: "*I must acknowledge this defeat. You have shown superior tactics, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi098Subtitle
+US: "*My superior tactics are leading to your defeat, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi099Subtitle
+US: "*You are losing this battle, General. Better to accept defeat honorably than to fight on"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi100Subtitle
+US: "*The end is drawing near for you, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi101Subtitle
+US: "*Why do you resist the inevitable, General?"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi102Subtitle
+US: "*The shadow of the dragon signals the beginning of your defeat, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi103Subtitle
+US: "*It is time to accept your defeat, General"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi104Subtitle
+US: "*It is time for the dragon to rise again"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi105Subtitle
+US: "*There is no shame in accepting your weakness"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi106Subtitle
+US: "*You are not ready to face me. Return when your training is complete"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi107Subtitle
+US: "*Why do you run towards your own demise?"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi108Subtitle
+US: "*This has been an interesting contest. Perhaps you will challenge me again"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi109Subtitle
+US: "*Improve your skills and challenge me again"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi110Subtitle
+US: "*Welcome, General. I hope you are prepared to face me"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi111Subtitle
+US: "*Your victories speak well of your ability, but my generals did not have my cunning or experience"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+DIALOGEVENT:Taunts_BossChi112Subtitle
+US: "*Soon you will see what it is to face the dragon"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
 DIALOGEVENT:Taunts_BossGLA001Subtitle
 US: "*Most enemies would have flee from the sight of my armies. Perhaps this will be worthwhile after all"
 DE: ""
@@ -73321,7 +74665,7 @@ PL: ""
 END
 
 CONTROLBAR:Infa_ToolTipChinaBuildListeningOutpost
-US: "Transport. Holds 10 infantry units. Detects stealth units\n\nStrong vs. infantry, buildings\nWeak vs. tanks, aircraft"
+US: "Transport. Holds 8 infantry units. Detects stealth units\n\nStrong vs. infantry, buildings\nWeak vs. tanks, aircraft"
 DE: ""
 FR: ""
 ES: ""
@@ -73585,7 +74929,7 @@ PL: ""
 END
 
 CONTROLBAR:Lazr_ToolTipUSABuildPatriotBattery
-US: "Ground and air defense. Can relay position of enemy to nearby Turrets\n\nPower Required: 3"
+US: "Ground and air defense. Can relay position of enemy to nearby Turrets\n\nPower Required: 5"
 DE: ""
 FR: ""
 ES: ""
@@ -74112,90 +75456,6 @@ BP: ""
 PL: ""
 END
 
-CONTROLBAR:Tank_TooltipUpgradeChinaOverlordGattlingCannon
-US: "Build a Gattling Cannon on this Emperor"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-OBJECT:Tank_Overlord
-US: "Emperor"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-GUI:USAAllies
-US: "USA Allies"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-GUI:USAEnemies
-US: "USA Enemies"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-OBJECT:BigNuclearReactor
-US: "Nuclear Reactor"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-CONTROLBAR:SabotageBuilding
-US: "Sabotage &Building"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-CONTROLBAR:ToolTipGLASabotageBuilding
-US: "Can temporarily disable enemy buildings\n\nStrong vs. Enemy Structures\nWeak vs. infantry, scouts"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
 OBJECT:MissileSilo
 US: "Missile Silo"
 DE: ""
@@ -74294,6 +75554,90 @@ END
 
 TOOLTIP:FireWallPort
 US: "Open Firewall Port Number"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+CONTROLBAR:Tank_TooltipUpgradeChinaOverlordGattlingCannon
+US: "Build a Gattling Cannon on this Emperor"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+OBJECT:Tank_Overlord
+US: "Emperor"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:USAAllies
+US: "USA Allies"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:USAEnemies
+US: "USA Enemies"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+OBJECT:BigNuclearReactor
+US: "Nuclear Reactor"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+CONTROLBAR:SabotageBuilding
+US: "Sabotage &Building"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+CONTROLBAR:ToolTipGLASabotageBuilding
+US: "Can temporarily disable enemy buildings\n\nStrong vs. Enemy Structures\nWeak vs. infantry, scouts"
 DE: ""
 FR: ""
 ES: ""
@@ -74413,7 +75757,7 @@ PL: ""
 END
 
 CONTROLBAR:Nuke_TooltipCarpetBomb
-US: "Nuke a target area\n\nCountdown Timer: 2:30"
+US: "Nuke a target area\n\nCountdown Timer: 3:00"
 DE: ""
 FR: ""
 ES: ""
@@ -74520,42 +75864,6 @@ BP: ""
 PL: ""
 END
 
-CONTROLBAR:MOAB
-US: "Mother Of All &Bombs"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-CONTROLBAR:Chem_TooltipFireRebelAmbush
-US: "Creates toxin rebels\n\nCountdown Timer: 4:00"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-CONTROLBAR:Chem_ToolTipGLAScienceRebelAmbush
-US: "Allows you to create a surprise ambush of Toxin Rebels anywhere\n\nRank 1: 4 Toxin Rebels\nRank 2: 8 Toxin Rebels\nRank 3: 16 Toxin Rebels\n\nDeploy from: Command Center"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
 GUI:AdjustGameSpeed
 US: "Adjust Game Speed"
 DE: ""
@@ -74582,6 +75890,18 @@ END
 
 GUI:Refresh
 US: "Refresh"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+CONTROLBAR:MOAB
+US: "Mother Of All &Bombs"
 DE: ""
 FR: ""
 ES: ""
@@ -74640,8 +75960,32 @@ BP: ""
 PL: ""
 END
 
+CONTROLBAR:Chem_TooltipFireRebelAmbush
+US: "Creates toxin rebels\n\nCountdown Timer: 4:00"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
 CONTROLBAR:AirF_ToolTipUSABuildAurora
 US: "Super-sonic attack makes Aurora immune to enemy fire. After super-sonic attack, Aurora speed is reduced to 50%\n\nStrong vs. buildings\nWeak vs. fighters, anti-air units"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+CONTROLBAR:Chem_ToolTipGLAScienceRebelAmbush
+US: "Allows you to create a surprise ambush of Toxin Rebels anywhere\n\nRank 1: 4 Toxin Rebels\nRank 2: 8 Toxin Rebels\nRank 3: 16 Toxin Rebels\n\nDeploy from: Command Center"
 DE: ""
 FR: ""
 ES: ""
@@ -75636,1350 +76980,6 @@ BP: ""
 PL: ""
 END
 
-DIALOGEVENT:Taunts_BossChi001Subtitle
-US: "*So, I see you have decided to stay and stand against me. You will regret that decision, General. Prepare to meet your end!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi002Subtitle
-US: "*The tiger stands poised to strike, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi003Subtitle
-US: "*For China! Charge!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi004Subtitle
-US: "*My forces are ready to engage your defenses, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi005Subtitle
-US: "*Feel the stomping feet of my iron dragon!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi006Subtitle
-US: "*Your defenses are worthless against my forces"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi007Subtitle
-US: "*Now we meet in the field of honor, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi008Subtitle
-US: "*This we do for the good of China"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi009Subtitle
-US: "*It is time to test your steel, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi010Subtitle
-US: "*You have attacked me for the last time, General. This wave will break your defenses and crush your pitiful army to dust!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi011Subtitle
-US: "*The might of China falls upon you"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi012Subtitle
-US: "*Your inferior forces will provide no challenge for my warriors"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi013Subtitle
-US: "*You began this fight, General. No I will finish it"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi014Subtitle
-US: "*Attack the fool! Take no prisoners!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi015Subtitle
-US: "*Two warriors meet on the battlefield. Who is to say who will win? I do, that's who. Me. You will fall, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi016Subtitle
-US: "*A fight that cannot be won is not worth fighting. So why are you here, General?"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi017Subtitle
-US: "*Rage will only get you so far, General. Now, rage and a column of tanks...that will get you somewhere"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi018Subtitle
-US: "*You find yourself at the end of your rope, General. And only now have you discovered that the end of that rope is on fire"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi019Subtitle
-US: "*The dance of battle is strange and briefand this battle with you has been strangely brief"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi020Subtitle
-US: "*I see you haven't thought your strategy through. Pity"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi021Subtitle
-US: "*That is a losing strategy, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi022Subtitle
-US: "*You are not acting for the good of you people, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi023Subtitle
-US: "*I will give you a moments pause to consider your next move"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi024Subtitle
-US: "*A wise man knows when to retreat. Obviously you are not such a man"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi025Subtitle
-US: "*In the end, all fall before me"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi026Subtitle
-US: "*You cannot stand against my might"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi027Subtitle
-US: "*China cannot be defeated by one man"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi028Subtitle
-US: "*We shall mediate and consider our next move"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi029Subtitle
-US: "*Do not commit to a tactic you cannot support"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi030Subtitle
-US: "*Suicide is not a tactic, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi031Subtitle
-US: "*We sweep away your buildings like bamboo before a hurricane"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi032Subtitle
-US: "*Your men ran from the Barracks as we knocked it to the ground"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi033Subtitle
-US: "*A factory cannot produce war, General--and now your War Factory produces nothing"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi034Subtitle
-US: "*Your Air Field has been grounded, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi035Subtitle
-US: "*Your base defenses fall before us like blades of grass"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi036Subtitle
-US: "*We've destroyed your Command Center, so where are you hiding now, General?"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi037Subtitle
-US: "*So many of your buildings have fallen that I would have expected you to surrender by now"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi038Subtitle
-US: "*Don't think you can destroy my Barracks without feeling my wraith, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi039Subtitle
-US: "*I'll have to rebuild that War Factory now. You would be wise to exploit my momentary weaknessit won't last"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi040Subtitle
-US: "*Dozers: Rebuild the Air Field before our MiGs return!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi041Subtitle
-US: "*Our defenses are cracking! Repel the invaders!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi042Subtitle
-US: "*That is quite enough destruction, General. Now it is my turn"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi043Subtitle
-US: "*You can claim my Command Center, but this battle isn't over, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi044Subtitle
-US: "*We will avenge all those MiGs you've destroyed, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi045Subtitle
-US: "*The price of this war is too high, General. Now it is time for you to pay"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi046Subtitle
-US: "*China's infantry is plentiful, but too many have been sacrificed. Now I will return your cruelty ten-fold"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi047Subtitle
-US: "*Capture all the oil you wish--you will not have time to reap the rewards"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi048Subtitle
-US: "*That Artillery Platform can easily be avoided, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi049Subtitle
-US: "*Seeking to increase your efficiency with that Oil Refinery, General? A solid strategy would have served you better"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi050Subtitle
-US: "*Something stirs at the edge of my base"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi051Subtitle
-US: "*I see you approaching my base, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi052Subtitle
-US: "*You will not live to regret entering my base, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi053Subtitle
-US: "*You forces may enter my base, but they will never leave again"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi054Subtitle
-US: "*Those resources are under my protection, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi055Subtitle
-US: "*Why do you insist on attacking from the flanks?"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi056Subtitle
-US: "*Interesting attack, General, but it will not succeed against me"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi057Subtitle
-US: "*A brave attack, General, but bravery alone will not defeat me"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi058Subtitle
-US: "*That is a fools tactic, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi059Subtitle
-US: "*Leave this place before you anger me"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi060Subtitle
-US: "*I can see what you are doing, General. I will not allow it"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi061Subtitle
-US: "*Run away from here, General, before I unleash the horde on you"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi062Subtitle
-US: "*We are approaching your base, General. What is your defense?"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi063Subtitle
-US: "*Are you prepared for our attack, General? We shall see"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi064Subtitle
-US: "*Your defenses are inadequate, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi065Subtitle
-US: "*Now we will begin leveling your base, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi066Subtitle
-US: "*Your resources will soon be mine"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi067Subtitle
-US: "*I claim this Oil Derrick for China"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi068Subtitle
-US: "*Your flanks are exposed, General. Fatal mistake"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi069Subtitle
-US: "*You have allowed my forces to subvert your defenses. Now we will finish you"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi070Subtitle
-US: "*You have allowed your power to drop, General. Pray that isn't a fatal mistake"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi071Subtitle
-US: "*Without power you won't be able to defend your base, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi072Subtitle
-US: "*You have exhausted your resources, General. It is time to admit defeat"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi073Subtitle
-US: "*You have taxed my resources, General. Now I will come and take yours"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi074Subtitle
-US: "*The Scud Strom is a cowardly weapon, General. I thought more of you"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi075Subtitle
-US: "*You are forcing me to answer with a Nuclear Silo of my own, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi076Subtitle
-US: "*That Particle Cannon is a formidable weapon, but it cannot stop China"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi077Subtitle
-US: "*So many defensesI see you have proper respect for your enemy"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi078Subtitle
-US: "*You cannot build more tanks than China, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi079Subtitle
-US: "*We will match you planes in the air, General. Your superiority will be only in your mind"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi080Subtitle
-US: "*Your men are outnumbered, General. Do not try to make a greater horde than China"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi081Subtitle
-US: "*Your base grows large, Generalripe for a nuclear strike"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi082Subtitle
-US: "*Red Guard, scatter! Scud missiles inbound!"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi083Subtitle
-US: "*We are immune to your nuclear missiles, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi084Subtitle
-US: "*No! Your particle beam will only injure us--we will not forget this, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi085Subtitle
-US: "*Hide in those buildings, General. Perhaps a Dragon Tank will come to visit you"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi086Subtitle
-US: "*Colonel Burton's exploits are legendary, but he is only one man, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi087Subtitle
-US: "*I see you have corrupted one of our Black Lotus agents. Her training will not turn the battle to your favor, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi088Subtitle
-US: "*The sniper Kell enters our battle. Do not count on his stealth to save you, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi089Subtitle
-US: "*You are foolish to build an Air Field, General. Only tanks can save you from me"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi090Subtitle
-US: "*You are wise to build a War Factory, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi091Subtitle
-US: "*That Barracks is only the beginning of what you will need to defeat me, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi092Subtitle
-US: "*If you are going to sell your buildings, why do you bother constructing them?"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi093Subtitle
-US: "*You will not defeat me this easily, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi094Subtitle
-US: "*Your advantage will not hold"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi095Subtitle
-US: "*I will not be beaten by the likes of you, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi096Subtitle
-US: "*This is not the end, General. I will recover from this"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi097Subtitle
-US: "*I must acknowledge this defeat. You have shown superior tactics, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi098Subtitle
-US: "*My superior tactics are leading to your defeat, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi099Subtitle
-US: "*You are losing this battle, General. Better to accept defeat honorably than to fight on"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi100Subtitle
-US: "*The end is drawing near for you, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi101Subtitle
-US: "*Why do you resist the inevitable, General?"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi102Subtitle
-US: "*The shadow of the dragon signals the beginning of your defeat, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi103Subtitle
-US: "*It is time to accept your defeat, General"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi104Subtitle
-US: "*It is time for the dragon to rise again"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi105Subtitle
-US: "*There is no shame in accepting your weakness"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi106Subtitle
-US: "*You are not ready to face me. Return when your training is complete"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi107Subtitle
-US: "*Why do you run towards your own demise?"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi108Subtitle
-US: "*This has been an interesting contest. Perhaps you will challenge me again"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi109Subtitle
-US: "*Improve your skills and challenge me again"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi110Subtitle
-US: "*Welcome, General. I hope you are prepared to face me"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi111Subtitle
-US: "*Your victories speak well of your ability, but my generals did not have my cunning or experience"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
-DIALOGEVENT:Taunts_BossChi112Subtitle
-US: "*Soon you will see what it is to face the dragon"
-DE: ""
-FR: ""
-ES: ""
-IT: ""
-KO: ""
-ZH: ""
-BP: ""
-PL: ""
-END
-
 MAP:NorthAmerica
 US: "North America"
 DE: ""
@@ -76994,6 +76994,66 @@ END
 
 MAP:Floodplains
 US: "Floodplains"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+MAP:TournamentA
+US: "Tournament A"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+MAP:TournamentB
+US: "Tournament B"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+MAP:Defcon6
+US: "Defcon 6"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+CONTROLBAR:AirF_TooltipUSAUpgradeLaserMissiles
+US: "Raptor and Stealth Fighter missiles do +12% more damage"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+CONTROLBAR:AirF_ToolTipUSAScienceCarpetBomb
+US: "Allows you to call in a B2 Stealth Bomber to carpet bomb an area\n\nDeploy from: Strategy Center"
 DE: ""
 FR: ""
 ES: ""
