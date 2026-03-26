@@ -4775,7 +4775,7 @@ PL: ""
 END
 
 GUI:GroupRoom2
-US: "China Lobby"
+US: "USA Lobby 2"
 DE: ""
 FR: ""
 ES: ""
@@ -4787,7 +4787,7 @@ PL: ""
 END
 
 GUI:GroupRoom3
-US: "GLA Lobby"
+US: "Germany Lobby"
 DE: ""
 FR: ""
 ES: ""
@@ -5651,7 +5651,7 @@ PL: ""
 END
 
 GUI:NATNegotiationFailed
-US: "Unable to connect to other player(s)"
+US: "You or another player were unable to negotiate a connection. You may not have your firewall configured properly. Visit www.generals.ea.com, eatech.custhelp.com, or call your firewall manufacturer for more details."
 DE: ""
 FR: ""
 ES: ""
@@ -31643,7 +31643,7 @@ PL: ""
 END
 
 CREDITS:SpecialThanx1
-US: "MomDadIkePacoMikeWhitchLetNelsEnHenriDaveTyLauraNatJenSarah - HB"
+US: "MomDadIkePacoMikeWhitchLetNelsEnHenriDaveTyLauraNatJenSarahLesGreg - HB"
 DE: ""
 FR: ""
 ES: ""
@@ -31967,7 +31967,7 @@ PL: ""
 END
 
 CREDITS:SpecialThanx29
-US: "Justine, ice cream filled donuts, political correctness, Natas."
+US: "Justine, ice cream filled donuts."
 DE: ""
 FR: ""
 ES: ""
@@ -33276,6 +33276,186 @@ END
 
 GUI:AdditionalLocalizationManagement
 US: "Additional Localization Management"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:BuddyAddReqMessageSent
+US: "Buddy request has been sent"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:BuddyAddReqMessageRejected
+US: "Buddy request has been rejected"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:BuddyAddReqMessageAccepted
+US: "Buddy request has been accepted"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom4
+US: "Germany Lobby 2"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom5
+US: "Korea Lobby"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom6
+US: "Korea Lobby 2"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom7
+US: "UK Lobby"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom8
+US: "Europe Lobby"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom9
+US: "Australia Lobby"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom10
+US: "Asia Lobby"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom11
+US: "World Lobby"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:RefreshGamePlayerList
+US: "Refresh the game and player lists"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:CommunicatorBuddyRadioButton
+US: "Right click name in Custom Lobby player list to send buddy request"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:CommunicatorIgnoreRadioButton
+US: "Right click name in Custom Lobby player list to ignore player"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom12
+US: "World Lobby 2"
 DE: ""
 FR: ""
 ES: ""
