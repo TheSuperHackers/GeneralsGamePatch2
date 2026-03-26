@@ -3191,7 +3191,7 @@ PL: ""
 END
 
 GUI:ScrollSpeed
-US: "SCROLL SPEED"
+US: "Scroll Speed"
 DE: ""
 FR: ""
 ES: ""
@@ -4763,7 +4763,7 @@ PL: ""
 END
 
 GUI:GroupRoom1
-US: "USA Lobby"
+US: "1 vs 1"
 DE: ""
 FR: ""
 ES: ""
@@ -4775,7 +4775,7 @@ PL: ""
 END
 
 GUI:GroupRoom2
-US: "USA Lobby 2"
+US: "2 vs 2"
 DE: ""
 FR: ""
 ES: ""
@@ -4787,7 +4787,7 @@ PL: ""
 END
 
 GUI:GroupRoom3
-US: "Germany Lobby"
+US: "3 vs 3"
 DE: ""
 FR: ""
 ES: ""
@@ -20855,7 +20855,7 @@ PL: ""
 END
 
 CONTROLBAR:TooltipFireSpySatScan
-US: "Reveal target area. Spot hidden units.\n\nCountdown Timer: 1:00"
+US: "Reveal target area. Spot hidden units.\n\nCountdown Timer: 1:30"
 DE: ""
 FR: ""
 ES: ""
@@ -20939,7 +20939,7 @@ PL: ""
 END
 
 CONTROLBAR:TooltipCIAIntelligence
-US: "Spy on enemy forces.\n\nCountdown Timer: 2:00"
+US: "Spy on enemy forces.\n\nCountdown Timer: 3:20"
 DE: ""
 FR: ""
 ES: ""
@@ -21131,7 +21131,7 @@ PL: ""
 END
 
 CONTROLBAR:TooltipUSAUpgradeCompositeArmor
-US: "Crusaders and Paladins get +25% armor"
+US: "Crusaders get +40% armor. Paladins get +20% armor."
 DE: ""
 FR: ""
 ES: ""
@@ -21395,7 +21395,7 @@ PL: ""
 END
 
 CONTROLBAR:ToolTipGLAUpgradeBuggyAmmor
-US: "+25% Rocket Buggy ammo"
+US: "+100% Rocket Buggy ammo"
 DE: ""
 FR: ""
 ES: ""
@@ -26183,7 +26183,7 @@ PL: ""
 END
 
 TOOLTIP:BattleHonorBlitz10
-US: "Blitz Honor\nPlayer has beaten computer opponent(s) in 10 minutes or less"
+US: "Blitz Honor\nPlayer has beaten opponent(s) in 10 minutes or less"
 DE: ""
 FR: ""
 ES: ""
@@ -26195,7 +26195,7 @@ PL: ""
 END
 
 TOOLTIP:BattleHonorBlitz5
-US: "Blitz Honor\nPlayer has beaten computer opponent(s) in 5 minutes or less"
+US: "Blitz Honor\nPlayer has beaten opponent(s) in 5 minutes or less"
 DE: ""
 FR: ""
 ES: ""
@@ -26327,7 +26327,7 @@ PL: ""
 END
 
 TOOLTIP:BattleHonorBlitz10Disabled
-US: "Blitz Honor\nBeat computer opponent(s) in 10 minutes or less to earn this medal"
+US: "Blitz Honor\nBeat opponent(s) in 10 minutes or less to earn this medal"
 DE: ""
 FR: ""
 ES: ""
@@ -28295,7 +28295,7 @@ PL: ""
 END
 
 TOOLTIP:BattleHonorFairPlay
-US: "Fair Play Honor\nPlayer has disconnected from online games less than 10% of the time"
+US: "Fair Play Honor\nPlayer has disconnected from online games less than 10% of the time (with at least 10 games played)"
 DE: ""
 FR: ""
 ES: ""
@@ -28319,7 +28319,7 @@ PL: ""
 END
 
 TOOLTIP:BattleHonorFairPlayDisabled
-US: "Fair Play Honor\nDisconnect less than 10% of the time to earn this medal"
+US: "Fair Play Honor\nDisconnect less than 10% of the time to earn this medal (with at least 10 games played)"
 DE: ""
 FR: ""
 ES: ""
@@ -31643,7 +31643,7 @@ PL: ""
 END
 
 CREDITS:SpecialThanx1
-US: "MomDadIkePacoMikeWhitchLetNelsEnHenriDaveTyLauraNatJenSarahLesGreg - HB"
+US: "MomDadIkePacoMikeWhitchLetNelsEnHenriDaveTyLauraNatJenSarah - HB"
 DE: ""
 FR: ""
 ES: ""
@@ -31967,7 +31967,7 @@ PL: ""
 END
 
 CREDITS:SpecialThanx29
-US: "Justine, ice cream filled donuts."
+US: "Justine, ice cream filled donuts, political correctness, Natas."
 DE: ""
 FR: ""
 ES: ""
@@ -33323,7 +33323,7 @@ PL: ""
 END
 
 GUI:GroupRoom4
-US: "Germany Lobby 2"
+US: "4 vs 4"
 DE: ""
 FR: ""
 ES: ""
@@ -33335,7 +33335,7 @@ PL: ""
 END
 
 GUI:GroupRoom5
-US: "Korea Lobby"
+US: "Free4All"
 DE: ""
 FR: ""
 ES: ""
@@ -33347,7 +33347,7 @@ PL: ""
 END
 
 GUI:GroupRoom6
-US: "Korea Lobby 2"
+US: "Clan Wars"
 DE: ""
 FR: ""
 ES: ""
@@ -33359,7 +33359,7 @@ PL: ""
 END
 
 GUI:GroupRoom7
-US: "UK Lobby"
+US: "Asia"
 DE: ""
 FR: ""
 ES: ""
@@ -33371,7 +33371,7 @@ PL: ""
 END
 
 GUI:GroupRoom8
-US: "Europe Lobby"
+US: "Europe"
 DE: ""
 FR: ""
 ES: ""
@@ -33383,7 +33383,7 @@ PL: ""
 END
 
 GUI:GroupRoom9
-US: "Australia Lobby"
+US: "N America"
 DE: ""
 FR: ""
 ES: ""
@@ -33395,7 +33395,7 @@ PL: ""
 END
 
 GUI:GroupRoom10
-US: "Asia Lobby"
+US: "No Supers"
 DE: ""
 FR: ""
 ES: ""
@@ -33407,7 +33407,7 @@ PL: ""
 END
 
 GUI:GroupRoom11
-US: "World Lobby"
+US: "Mod Maps"
 DE: ""
 FR: ""
 ES: ""
@@ -33455,7 +33455,187 @@ PL: ""
 END
 
 GUI:GroupRoom12
-US: "World Lobby 2"
+US: "Newbies"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom13
+US: "1 vs 1"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom14
+US: "2 vs 2"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom15
+US: "3 vs 3"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom16
+US: "4 vs 4"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom17
+US: "New Players"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom18
+US: "Mod Games"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom19
+US: "Ladder Games"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom20
+US: "Germany"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom21
+US: "US"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:GroupRoom22
+US: "Korea"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:BeaconClear
+US: "Clear"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:ControlOptions
+US: "CONTROL OPTIONS"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:ClassicMouse
+US: "Classic"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+GUI:AlternateMouse
+US: "Alternate Mouse Setup"
+DE: ""
+FR: ""
+ES: ""
+IT: ""
+KO: ""
+ZH: ""
+BP: ""
+PL: ""
+END
+
+TOOLTIP:AlternateMouse
+US: "Right mouse button initiates unit action on battle field (attack, move, etc.)"
 DE: ""
 FR: ""
 ES: ""
