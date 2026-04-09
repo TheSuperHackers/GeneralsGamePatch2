@@ -1105,10 +1105,10 @@ WINDOW
                        IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,
                        IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0;
       COMBOBOXDATA = ISEDITABLE: 0,
-                    MAXCHARS: 32,
-                    MAXDISPLAY: 15,
-                    ASCIIONLY: 0,
-                    LETTERSANDNUMBERS: 0;
+                     MAXCHARS: 32,
+                     MAXDISPLAY: 15,
+                     ASCIIONLY: 0,
+                     LETTERSANDNUMBERS: 0;
       COMBOBOXDROPDOWNBUTTONENABLEDDRAWDATA = IMAGE: VSliderDownButtonEnabled, COLOR: 255 0 0 255, BORDERCOLOR: 255 128 128 255,
                                               IMAGE: VSliderDownButtonHiliteSelected, COLOR: 255 255 0 255, BORDERCOLOR: 254 254 254 255,
                                               IMAGE: NoImage, COLOR: 255 255 255 0, BORDERCOLOR: 255 255 255 0,

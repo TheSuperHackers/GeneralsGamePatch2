@@ -731,10 +731,10 @@ WINDOW
                      IMAGE: NoImage, COLOR: 255 255 255 255, BORDERCOLOR: 255 255 255 255,
                      IMAGE: NoImage, COLOR: 255 255 255 255, BORDERCOLOR: 255 255 255 255;
     COMBOBOXDATA = ISEDITABLE: 0,
-                  MAXCHARS: 20,
-                  MAXDISPLAY: 5,
-                  ASCIIONLY: 0,
-                  LETTERSANDNUMBERS: 0;
+                   MAXCHARS: 20,
+                   MAXDISPLAY: 5,
+                   ASCIIONLY: 0,
+                   LETTERSANDNUMBERS: 0;
     COMBOBOXDROPDOWNBUTTONENABLEDDRAWDATA = IMAGE: NoImage, COLOR: 255 0 0 255, BORDERCOLOR: 255 128 128 255,
                                             IMAGE: NoImage, COLOR: 47 55 168 255, BORDERCOLOR: 254 254 254 255,
                                             IMAGE: NoImage, COLOR: 255 255 255 255, BORDERCOLOR: 255 255 255 255,
@@ -972,10 +972,10 @@ WINDOW
                      IMAGE: NoImage, COLOR: 255 255 255 255, BORDERCOLOR: 255 255 255 255,
                      IMAGE: NoImage, COLOR: 255 255 255 255, BORDERCOLOR: 255 255 255 255;
     COMBOBOXDATA = ISEDITABLE: 1,
-                  MAXCHARS: 10,
-                  MAXDISPLAY: 5,
-                  ASCIIONLY: 1,
-                  LETTERSANDNUMBERS: 1;
+                   MAXCHARS: 10,
+                   MAXDISPLAY: 5,
+                   ASCIIONLY: 1,
+                   LETTERSANDNUMBERS: 1;
     COMBOBOXDROPDOWNBUTTONENABLEDDRAWDATA = IMAGE: NoImage, COLOR: 255 0 0 255, BORDERCOLOR: 255 128 128 255,
                                             IMAGE: NoImage, COLOR: 47 55 168 255, BORDERCOLOR: 254 254 254 255,
                                             IMAGE: NoImage, COLOR: 255 255 255 255, BORDERCOLOR: 255 255 255 255,
