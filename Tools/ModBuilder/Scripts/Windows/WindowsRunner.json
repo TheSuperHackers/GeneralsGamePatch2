@@ -6,7 +6,7 @@
         "gameInstall2RegKey": "SOFTWARE\\Electronic Arts\\EA Games\\Command and Conquer The First Decade:zh_folder",
         "tuczhGameInstallRegKey": "SOFTWARE\\EA Games\\Command and Conquer Generals Zero Hour:Install Dir",
         "gameInstallPath": "",
-        "gameExeFile": "generals.exe",
+        "gameExeFile": "generalszh.exe",
         "gameExeArgs": {
             "-win": "",
             "-quickstart": "",
