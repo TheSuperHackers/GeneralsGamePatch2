@@ -1,0 +1,226 @@
+{
+    "bundles": {
+        "version": 1,
+        "packs": [
+            {
+                "name": "FullArabic",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioArabic",
+                    "OptionalINI",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioArabic",
+                    "CoreINI",
+                    "CoreLangArabic",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullBrazilian",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioBrazilian",
+                    "OptionalINI",
+                    "OptionalLangBrazilian",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioBrazilian",
+                    "CoreINI",
+                    "CoreLangBrazilian",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullChinese",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioChinese",
+                    "OptionalINI",
+                    "OptionalLangChinese",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioChinese",
+                    "CoreINI",
+                    "CoreLangChinese",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullEnglish",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioEnglish",
+                    "OptionalINI",
+                    "OptionalLangEnglish",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioEnglish",
+                    "CoreINI",
+                    "CoreLangEnglish",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullFrench",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioFrench",
+                    "OptionalINI",
+                    "OptionalLangFrench",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioFrench",
+                    "CoreINI",
+                    "CoreLangFrench",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullGerman",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioGerman",
+                    "OptionalINI",
+                    "OptionalLangGerman",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioGerman",
+                    "CoreINI",
+                    "CoreLangGerman",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullItalian",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioItalian",
+                    "OptionalINI",
+                    "OptionalLangItalian",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioItalian",
+                    "CoreINI",
+                    "CoreLangItalian",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullKorean",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioKorean",
+                    "OptionalINI",
+                    "OptionalLangKorean",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioKorean",
+                    "CoreINI",
+                    "CoreLangKorean",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullPolish",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioPolish",
+                    "OptionalINI",
+                    "OptionalLangPolish",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioPolish",
+                    "CoreINI",
+                    "CoreLangPolish",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullRussian",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioRussian",
+                    "OptionalINI",
+                    "OptionalLangRussian",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioRussian",
+                    "CoreINI",
+                    "CoreLangRussian",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "FullSpanish",
+                "itemNames": [
+                    "OptionalAudio",
+                    "OptionalAudioSpanish",
+                    "OptionalINI",
+                    "OptionalLangSpanish",
+                    "OptionalTextures",
+                    "OptionalW3D",
+                    "CoreAudio",
+                    "CoreAudioSpanish",
+                    "CoreINI",
+                    "CoreLangSpanish",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            }
+        ]
+    }
+}

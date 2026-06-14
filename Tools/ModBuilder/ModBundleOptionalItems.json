@@ -1,0 +1,192 @@
+{
+    "bundles": {
+        "version": 1,
+        "itemsPrefix": "600_899_SuperPatch_",
+        "itemsSuffix": "",
+        "items": [
+            {
+                "name": "OptionalTextures",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceList": [
+                            "Art/Textures/*.tga",
+                            "Art/Textures/*.dds"
+                        ]
+                    },
+                    {
+                        "sourceParent": "GameFilesOriginalCCG",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Textures/RemoveAlphaChannel/*.dds",
+                                "target": "Art/Textures/*.dds"
+                            }
+                        ],
+                        "params": {
+                            "-quality": 255,
+                            "-mipmode": "Generate",
+                            "-DXT1": ""
+                        }
+                    },
+                    {
+                        "sourceParent": "GameFilesOriginalZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Textures/RemoveAlphaChannel/*.dds",
+                                "target": "Art/Textures/*.dds"
+                            }
+                        ],
+                        "params": {
+                            "-quality": 255,
+                            "-mipmode": "Generate",
+                            "-DXT1": ""
+                        }
+                    },
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Textures/NoMip/*.psd",
+                                "target": "Art/Textures/*.dds"
+                            },
+                            {
+                                "source": "Art/Textures/NoMip/*.tga",
+                                "target": "Art/Textures/*.dds"
+                            },
+                            {
+                                "source": "Art/Textures/NoMip/*.tif",
+                                "target": "Art/Textures/*.dds"
+                            }
+                        ],
+                        "params": {
+                            "-quality": 255,
+                            "-mipmode": "None"
+                        }
+                    },
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Textures/GenerateTga/*.psd",
+                                "target": "Art/Textures/*.tga"
+                            },
+                            {
+                                "source": "Art/Textures/GenerateTga/*.tif",
+                                "target": "Art/Textures/*.tga"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "OptionalW3D",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceList": [
+                            "Art/W3D/*.W3D"
+                        ]
+                    },
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/Animation/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": true,
+                            "w3dExportMesh": true
+                        }
+                    },
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/Hierarchy/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": false,
+                            "w3dExportMesh": false
+                        }
+                    },
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/HierarchyAnimationMesh/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": true,
+                            "w3dExportMesh": true
+                        }
+                    },
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/HierarchyMesh/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": false,
+                            "w3dExportMesh": true
+                        }
+                    },
+                    {
+                        "sourceParent": "GameFilesOptional",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/Mesh/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": false,
+                            "w3dExportAnimation": false,
+                            "w3dExportMesh": true
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalINI",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/INI/CommandSet.ini",
+                            "Data/INI/Voice.ini"
+                        ],
+                        "params": {
+                            "forceEOL": "\r\n",
+                            "deleteComments": ";",
+                            "deleteWhitespace": 1,
+                            "sourceEncoding": "ascii",
+                            "targetEncoding": "ascii",
+                            "excludeMarkersList": [
+                                [
+                                    ";patch104p-core-begin",
+                                    ";patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

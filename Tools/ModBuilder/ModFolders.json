@@ -1,0 +1,7 @@
+{
+    "folders": {
+        "version": 1,
+        "releaseDir": ".Release",
+        "buildDir": ".Build"
+    }
+}

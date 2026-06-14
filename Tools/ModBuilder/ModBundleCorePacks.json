@@ -1,0 +1,163 @@
+{
+    "bundles": {
+        "version": 1,
+        "packsPrefix": "SuperPatch",
+        "packsSuffix": "_v0.0",
+        "packs": [
+            {
+                "name": "CoreArabic",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioArabic",
+                    "CoreINI",
+                    "CoreLangArabic",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreBrazilian",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioBrazilian",
+                    "CoreINI",
+                    "CoreLangBrazilian",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreChinese",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioChinese",
+                    "CoreINI",
+                    "CoreLangChinese",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreEnglish",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioEnglish",
+                    "CoreINI",
+                    "CoreLangEnglish",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreFrench",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioFrench",
+                    "CoreINI",
+                    "CoreLangFrench",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreGerman",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioGerman",
+                    "CoreINI",
+                    "CoreLangGerman",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreItalian",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioItalian",
+                    "CoreINI",
+                    "CoreLangItalian",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreKorean",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioKorean",
+                    "CoreINI",
+                    "CoreLangKorean",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CorePolish",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioPolish",
+                    "CoreINI",
+                    "CoreLangPolish",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreRussian",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioRussian",
+                    "CoreINI",
+                    "CoreLangRussian",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            },
+            {
+                "name": "CoreSpanish",
+                "itemNames": [
+                    "CoreAudio",
+                    "CoreAudioSpanish",
+                    "CoreINI",
+                    "CoreLangSpanish",
+                    "CoreMaps",
+                    "CoreMisc",
+                    "CoreTextures",
+                    "CoreW3D",
+                    "CoreWindow"
+                ]
+            }
+        ]
+    }
+}

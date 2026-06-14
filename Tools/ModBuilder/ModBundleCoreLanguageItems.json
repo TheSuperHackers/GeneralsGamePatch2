@@ -1,0 +1,375 @@
+{
+    "bundles": {
+        "version": 1,
+        "itemsPrefix": "600_900_SuperPatch_",
+        "itemsSuffix": "",
+        "items": [
+            {
+                "name": "CoreLangArabic",
+                "big": true,
+                "setGameLanguageOnInstall": "English",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/Arabic/*.ini",
+                                "target": "Data/English/*.ini"
+                            }
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/English/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Arabic",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangBrazilian",
+                "big": true,
+                "setGameLanguageOnInstall": "Brazilian",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/Brazilian/*.ini"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Brazilian/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Brazilian",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangChinese",
+                "big": true,
+                "setGameLanguageOnInstall": "Chinese",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/Chinese/*.ini",
+                            "Data/Chinese/Art/W3D/*.W3D"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Chinese/generals.csf"
+                            },
+                            {
+                                "source": "Data/Autorun.str",
+                                "target": "Data/Chinese/Autorun.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Chinese",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangEnglish",
+                "big": true,
+                "setGameLanguageOnInstall": "English",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/English/*.ini"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/English/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "English",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangFrench",
+                "big": true,
+                "setGameLanguageOnInstall": "French",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/French/*.ini",
+                            "Data/French/Art/W3D/*.W3D"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/French/generals.csf"
+                            },
+                            {
+                                "source": "Data/Autorun.str",
+                                "target": "Data/French/Autorun.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "French",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangGerman",
+                "big": true,
+                "setGameLanguageOnInstall": "German",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/German/*.ini"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/German/generals.csf"
+                            },
+                            {
+                                "source": "Data/Autorun.str",
+                                "target": "Data/German/Autorun.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "German",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangItalian",
+                "big": true,
+                "setGameLanguageOnInstall": "Italian",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/Italian/*.ini"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Italian/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Italian",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangKorean",
+                "big": true,
+                "setGameLanguageOnInstall": "Korean",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/Korean/*.ini",
+                            "Data/Korean/Art/W3D/*.W3D"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Korean/generals.csf"
+                            },
+                            {
+                                "source": "Data/Autorun.str",
+                                "target": "Data/Korean/Autorun.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Korean",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangPolish",
+                "big": true,
+                "setGameLanguageOnInstall": "Polish",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/Polish/*.ini"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Polish/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Polish",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangRussian",
+                "big": true,
+                "setGameLanguageOnInstall": "English",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/Russian/*.ini",
+                                "target": "Data/English/*.ini"
+                            }
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/English/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Russian",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreLangSpanish",
+                "big": true,
+                "setGameLanguageOnInstall": "Spanish",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/Spanish/*.ini"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Spanish/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Spanish",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-optional-begin",
+                                    "//patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

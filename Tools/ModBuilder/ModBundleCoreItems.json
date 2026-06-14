@@ -1,0 +1,212 @@
+{
+    "bundles": {
+        "version": 1,
+        "itemsPrefix": "600_900_SuperPatch_",
+        "itemsSuffix": "",
+        "items": [
+            {
+                "name": "CoreMisc",
+                "big": false,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/Cursors/*.ani"
+                        ]
+                    },
+                    {
+                        "sourceParent": "ReleaseFiles",
+                        "sourceList": [
+                            "**/*"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "CoreTextures",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Art/Textures/*.tga",
+                            "Art/Textures/*.dds"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Textures/NoMip/*.psd",
+                                "target": "Art/Textures/*.dds"
+                            },
+                            {
+                                "source": "Art/Textures/NoMip/*.tga",
+                                "target": "Art/Textures/*.dds"
+                            },
+                            {
+                                "source": "Art/Textures/NoMip/*.tif",
+                                "target": "Art/Textures/*.dds"
+                            }
+                        ],
+                        "params": {
+                            "-quality": 255,
+                            "-mipmode": "None"
+                        }
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Textures/GenerateTga/*.psd",
+                                "target": "Art/Textures/*.tga"
+                            },
+                            {
+                                "source": "Art/Textures/GenerateTga/*.tif",
+                                "target": "Art/Textures/*.tga"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "CoreW3D",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Art/W3D/*.W3D"
+                        ]
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/Animation/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": true,
+                            "w3dExportMesh": true
+                        }
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/Hierarchy/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": false,
+                            "w3dExportMesh": false
+                        }
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/HierarchyAnimationMesh/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": true,
+                            "w3dExportMesh": true
+                        }
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/HierarchyMesh/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": true,
+                            "w3dExportAnimation": false,
+                            "w3dExportMesh": true
+                        }
+                    },
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Art/Models/Mesh/*.blend",
+                                "target": "Art/W3D/*.W3D"
+                            }
+                        ],
+                        "params": {
+                            "w3dExportHierarchy": false,
+                            "w3dExportAnimation": false,
+                            "w3dExportMesh": true
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreINI",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Data/INI/**/*.ini"
+                        ],
+                        "params": {
+                            "forceEOL": "\r\n",
+                            "deleteComments": ";",
+                            "deleteWhitespace": 1,
+                            "sourceEncoding": "ascii",
+                            "targetEncoding": "ascii",
+                            "excludeMarkersList": [
+                                [
+                                    ";patch104p-optional-begin",
+                                    ";patch104p-optional-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "CoreMaps",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Maps/**/*.ini",
+                            "Maps/**/*.str"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "CoreWindow",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceList": [
+                            "Window/**/*.wnd"
+                        ],
+                        "params": {
+                            "forceEOL": "\r\n",
+                            "deleteWhitespace": 1,
+                            "sourceEncoding": "ascii",
+                            "targetEncoding": "ascii"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

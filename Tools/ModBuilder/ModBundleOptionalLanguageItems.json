@@ -1,0 +1,250 @@
+{
+    "bundles": {
+        "version": 1,
+        "itemsPrefix": "600_899_SuperPatch_",
+        "itemsSuffix": "",
+        "items": [
+            {
+                "name": "OptionalLangBrazilian",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Brazilian/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Brazilian",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangChinese",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Chinese/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Chinese",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangEnglish",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/English/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "English",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangFrench",
+                "big": true,
+                "setGameLanguageOnInstall": "French",
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/French/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "French",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangGerman",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/German/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "German",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangItalian",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Italian/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Italian",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangKorean",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Korean/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Korean",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangPolish",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Polish/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Polish",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangRussian",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Russian/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Russian",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "name": "OptionalLangSpanish",
+                "big": true,
+                "files": [
+                    {
+                        "sourceParent": "../../GeneralsZH",
+                        "sourceTargetList": [
+                            {
+                                "source": "Data/generals.str",
+                                "target": "Data/Spanish/generals.csf"
+                            }
+                        ],
+                        "params": {
+                            "language": "Spanish",
+                            "excludeMarkersList": [
+                                [
+                                    "//patch104p-core-begin",
+                                    "//patch104p-core-end"
+                                ]
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}
