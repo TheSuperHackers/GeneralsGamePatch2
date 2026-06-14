@@ -9,7 +9,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/Restoration/FX/*.wav",
@@ -32,7 +32,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",
@@ -59,7 +59,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",
@@ -86,7 +86,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",
@@ -113,7 +113,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",
@@ -140,7 +140,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/French/*.wav",
@@ -159,7 +159,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/German/*.wav",
@@ -174,7 +174,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",
@@ -201,7 +201,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",
@@ -228,7 +228,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",
@@ -255,7 +255,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/Russian/*.wav",
@@ -270,7 +270,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Data/Audio/Sounds/English/*.wav",

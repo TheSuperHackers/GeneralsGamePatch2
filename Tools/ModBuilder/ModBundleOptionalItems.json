@@ -9,7 +9,7 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceList": [
                             "Art/Textures/*.tga",
                             "Art/Textures/*.dds"
@@ -44,7 +44,7 @@
                         }
                     },
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Art/Textures/NoMip/*.psd",
@@ -65,7 +65,7 @@
                         }
                     },
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Art/Textures/GenerateTga/*.psd",
@@ -84,13 +84,13 @@
                 "big": true,
                 "files": [
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceList": [
                             "Art/W3D/*.W3D"
                         ]
                     },
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Art/Models/Animation/*.blend",
@@ -104,7 +104,7 @@
                         }
                     },
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Art/Models/Hierarchy/*.blend",
@@ -118,7 +118,7 @@
                         }
                     },
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Art/Models/HierarchyAnimationMesh/*.blend",
@@ -132,7 +132,7 @@
                         }
                     },
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Art/Models/HierarchyMesh/*.blend",
@@ -146,7 +146,7 @@
                         }
                     },
                     {
-                        "sourceParent": "GameFilesOptional",
+                        "sourceParent": "../../Optional/GeneralsZH",
                         "sourceTargetList": [
                             {
                                 "source": "Art/Models/Mesh/*.blend",
