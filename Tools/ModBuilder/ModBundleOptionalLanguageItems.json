@@ -1,7 +1,7 @@
 {
     "bundles": {
         "version": 1,
-        "itemsPrefix": "500_900_CommunityPatch_",
+        "itemsPrefix": "500_899_CommunityPatch_",
         "itemsSuffix": "",
         "items": [
             {
