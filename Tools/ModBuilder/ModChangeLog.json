@@ -4,7 +4,7 @@
         "records": [
             {
                 "sourceList": [
-                    "Design/Changes/v1.0/*.yaml"
+                    "../../Design/Changes/v1.0/*.yaml"
                 ],
                 "targetList": [
                     "ReleaseFiles/English/Changes/v1.0/AllSortedByDate.md"
@@ -19,7 +19,7 @@
             },
             {
                 "sourceList": [
-                    "Design/Changes/v1.0/*.yaml"
+                    "../../Design/Changes/v1.0/*.yaml"
                 ],
                 "targetList": [
                     "ReleaseFiles/English/Changes/v1.0/AllSortedBySeverity.md"
@@ -61,7 +61,7 @@
             },
             {
                 "sourceList": [
-                    "Design/Changes/v1.0/*.yaml"
+                    "../../Design/Changes/v1.0/*.yaml"
                 ],
                 "targetList": [
                     "ReleaseFiles/English/Changes/v1.0/ControversialOnlySortedByFaction.md"
@@ -93,7 +93,7 @@
             },
             {
                 "sourceList": [
-                    "Design/Changes/v1.0/*.yaml"
+                    "../../Design/Changes/v1.0/*.yaml"
                 ],
                 "targetList": [
                     "ReleaseFiles/English/Changes/v1.0/ArtOnlySortedByFaction.md"
@@ -125,7 +125,7 @@
             },
             {
                 "sourceList": [
-                    "Design/Changes/v1.0/*.yaml"
+                    "../../Design/Changes/v1.0/*.yaml"
                 ],
                 "targetList": [
                     "ReleaseFiles/English/Changes/v1.0/UsaOnlySortedByDate.md"
@@ -142,7 +142,7 @@
             },
             {
                 "sourceList": [
-                    "Design/Changes/v1.0/*.yaml"
+                    "../../Design/Changes/v1.0/*.yaml"
                 ],
                 "targetList": [
                     "ReleaseFiles/English/Changes/v1.0/ChinaOnlySortedByDate.md"
@@ -159,7 +159,7 @@
             },
             {
                 "sourceList": [
-                    "Design/Changes/v1.0/*.yaml"
+                    "../../Design/Changes/v1.0/*.yaml"
                 ],
                 "targetList": [
                     "ReleaseFiles/English/Changes/v1.0/GlaOnlySortedByDate.md"
