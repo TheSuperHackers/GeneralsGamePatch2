@@ -1,0 +1,52 @@
+name: Weekly Big File Release
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 9 * * 5' # Every Friday at 09:00 UTC (matching GeneralsGameCode weekly release)
+
+jobs:
+  get-date:
+    runs-on: ubuntu-latest
+    outputs:
+      date: ${{ steps.date.outputs.date }}
+    steps:
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+  build-big-files:
+    needs: [get-date]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Package Generals.big
+        run: |
+          python scripts/pack_big.py --input Generals --output '!GeneralsPatch.big'
+          zip GeneralsPatch.zip '!GeneralsPatch.big'
+
+      - name: Package GeneralsZH.big
+        run: |
+          python scripts/pack_big.py --input GeneralsZH --output '!GeneralsZHPatch.big'
+          zip GeneralsZHPatch.zip '!GeneralsZHPatch.big'
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: weekly-${{ needs.get-date.outputs.date }}
+          name: weekly-${{ needs.get-date.outputs.date }}
+          files: |
+            GeneralsPatch.zip
+            GeneralsZHPatch.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
