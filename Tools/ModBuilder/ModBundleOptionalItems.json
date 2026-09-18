@@ -168,7 +168,7 @@
                     {
                         "sourceParent": "../../GeneralsZH",
                         "sourceList": [
-                            "Data/INI/CommandSet.ini",
+                            "Data/INI/CommandSet/*.ini",
                             "Data/INI/Voice.ini"
                         ],
                         "params": {
