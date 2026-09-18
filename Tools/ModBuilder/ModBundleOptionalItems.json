@@ -168,8 +168,15 @@
                     {
                         "sourceParent": "../../GeneralsZH",
                         "sourceList": [
-                            "Data/INI/CommandSet/*.ini",
                             "Data/INI/Voice.ini"
+                        ],
+                        "multiSourceTargetList": [
+                            {
+                                "multiSource": [
+                                    "Data/INI/CommandSet/*.ini"
+                                ],
+                                "target": "Data/INI/CommandSet.ini"
+                            }
                         ],
                         "params": {
                             "forceEOL": "\r\n",
