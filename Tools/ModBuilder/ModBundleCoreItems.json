@@ -158,7 +158,225 @@
                     {
                         "sourceParent": "../../GeneralsZH",
                         "sourceList": [
-                            "Data/INI/**/*.ini"
+                            "Data/INI/*.ini",
+                            "Data/INI/Default/**/*.ini",
+                            "Data/INI/MappedImages/**/*.ini"
+                        ],
+                        "multiSourceTargetList": [
+                            {
+                                "multiSource": [
+                                    "Data/INI/CommandButton/*.ini"
+                                ],
+                                "target": "Data/INI/CommandButton.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/CommandSet/*.ini"
+                                ],
+                                "target": "Data/INI/CommandSet.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Campaign/America/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/AmericaCINEUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Campaign/China/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/ChinaCINEUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Campaign/GLA/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/GLACINEUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Campaign/Misc/**/*.ini",
+                                    "Data/INI/Object/Faction/Civilian/Unit/**/*.ini",
+                                    "Data/INI/Object/Shared/Audio/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/CivilianUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/America/Building/**/*.ini",
+                                    "Data/INI/Object/Faction/China/Building/**/*.ini",
+                                    "Data/INI/Object/Faction/GLA/Building/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/FactionBuilding.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/America/Misc/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/AmericaMiscUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/America/Unit/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/AmericaUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/AmericaAirForce/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/AirforceGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/AmericaLaser/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/LaserGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/AmericaSuperWeapon/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/SuperWeaponGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/Boss/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/BossGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/China/Misc/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/ChinaMiscUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/China/Unit/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/ChinaUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/ChinaInfantry/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/InfantryGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/ChinaNuke/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/NukeGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/ChinaTank/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/TankGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/Civilian/Building/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/CivilianBuilding.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/Civilian/Prop/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/CivilianProp.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/GLA/Unit/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/GLAUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/GLADemolition/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/DemoGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/GLAStealth/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/StealthGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Faction/GLAToxin/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/ChemicalGeneral.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/GC_Faction/GC_GLAStealth/Building/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/GC_Slth_GLABuildings.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/GC_Faction/GC_GLAStealth/Unit/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/GC_Slth_GLAUnits.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/GC_Faction/GC_GLAToxin/Building/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/GC_Chem_GLABuildings.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/GC_Faction/GC_GLAToxin/Unit/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/GC_Chem_GLAUnits.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Nature/Prop/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/NatureProp.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Nature/Unit/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/NatureUnit.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Shared/Debris/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/Hulk.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Shared/Prop/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/FactionProp.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Shared/System/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/System.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Shared/TechBuilding/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/TechBuildings.ini"
+                            },
+                            {
+                                "multiSource": [
+                                    "Data/INI/Object/Shared/Weapon/**/*.ini"
+                                ],
+                                "target": "Data/INI/Object/WeaponObjects.ini"
+                            }
                         ],
                         "params": {
                             "forceEOL": "\r\n",
@@ -173,6 +391,67 @@
                                 ]
                             ]
                         }
+                    },
+                    {
+                        "sourceParent": ".",
+                        "sourceTargetList": [
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/AmericaAir.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/AmericaInfantry.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/AmericaVehicle.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/ChinaAir.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/ChinaInfantry.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/ChinaVehicle.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/GLAAir.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/GLAInfantry.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/GLAVehicle.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/FactionUnit.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/GC_Chem_GLASystem.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/GC_Slth_GLASystem.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/GLAMiscUnit.ini"
+                            },
+                            {
+                                "source": "Empty.ini",
+                                "target": "Data/INI/Object/SpecialPowerObjects.ini"
+                            }
+                        ]
                     }
                 ]
             },
